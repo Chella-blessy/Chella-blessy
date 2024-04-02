@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Blessy A</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
+<img align="right" alt="Welcome" width ="400" src="https://media.tenor.com/-6m2vqRjKDEAAAAi/geek-girl.gif"/>
 
 - 🔭 I’m currently working on **React Projects**
 
